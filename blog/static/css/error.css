@@ -1,0 +1,27 @@
+body{
+    background-image: url("error.CR2");
+    width: 270;
+    height: 150;
+    text-align: center;
+}
+.head{
+    width: 80px;
+    height: 50px;
+    padding-top: 5px;
+}
+.door{
+
+    width: 30px;
+    height: 55px;
+}
+.wrong h1{
+    display: block;
+    text-align: center;
+    margin: 60px auto;
+    font-family: 'Frijole', cursive;
+    font-size: 55px;
+    height: 20px;
+}
+.return{
+    font-family: 'Frijole', cursive;
+}
